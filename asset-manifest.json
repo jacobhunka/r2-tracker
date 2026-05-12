@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jacobhunka/r2-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/jacobhunka/r2-tracker/static/js/main.53001cd1.js",
+    "static/js/453.fd0f6331.chunk.js": "/jacobhunka/r2-tracker/static/js/453.fd0f6331.chunk.js",
+    "index.html": "/jacobhunka/r2-tracker/index.html",
+    "main.e6c13ad2.css.map": "/jacobhunka/r2-tracker/static/css/main.e6c13ad2.css.map",
+    "main.53001cd1.js.map": "/jacobhunka/r2-tracker/static/js/main.53001cd1.js.map",
+    "453.fd0f6331.chunk.js.map": "/jacobhunka/r2-tracker/static/js/453.fd0f6331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.53001cd1.js"
+  ]
+}
